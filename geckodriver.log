@@ -1,0 +1,848 @@
+1498125996497	geckodriver	INFO	Listening on 127.0.0.1:52219
+1498125998084	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498126006990	Marionette	INFO	Listening on port 40645
+1498126007214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498126012579	Marionette	INFO	Ceased listening
+1498126031533	geckodriver	INFO	Listening on 127.0.0.1:50177
+1498126033110	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498126041440	Marionette	INFO	Listening on port 46435
+1498126041632	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498126295295	geckodriver	INFO	Listening on 127.0.0.1:39587
+1498126296992	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498126305590	Marionette	INFO	Listening on port 36633
+1498126305768	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498211765927	geckodriver	INFO	Listening on 127.0.0.1:36741
+1498211767367	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498211780915	Marionette	INFO	Listening on port 43415
+1498211781287	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.16149051539971182, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.16149051539971182, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498211836831	geckodriver	INFO	Listening on 127.0.0.1:60445
+1498211838394	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498211845917	Marionette	INFO	Listening on port 43453
+1498211846616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6807908537052383, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6807908537052383, line 504: unreachable code after return statement
+1498211933147	geckodriver	INFO	Listening on 127.0.0.1:59291
+1498211934579	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498211941830	Marionette	INFO	Listening on port 44223
+1498211942502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1498212017522	geckodriver	INFO	Listening on 127.0.0.1:57277
+1498212018930	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498212025779	Marionette	INFO	Listening on port 38733
+1498212026319	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1498212070479	geckodriver	INFO	Listening on 127.0.0.1:45515
+1498212071931	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498212079165	Marionette	INFO	Listening on port 40517
+1498212079918	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.056441352400936506, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.056441352400936506, line 504: unreachable code after return statement
+1498212160638	geckodriver	INFO	Listening on 127.0.0.1:45877
+1498212161983	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498212169108	Marionette	INFO	Listening on port 36357
+1498212169698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1498212330098	geckodriver	INFO	Listening on 127.0.0.1:33037
+1498212331448	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498212338264	Marionette	INFO	Listening on port 38415
+1498212338783	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.0742107587520735, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.0742107587520735, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498212475589	geckodriver	INFO	Listening on 127.0.0.1:40051
+1498212477084	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498212484162	Marionette	INFO	Listening on port 39285
+1498212484497	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1498212515597	Marionette	INFO	Ceased listening
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.1456647570201115, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.1456647570201115, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498212557054	geckodriver	INFO	Listening on 127.0.0.1:41151
+1498212558700	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498212566043	Marionette	INFO	Listening on port 46181
+1498212566179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.89977383587595, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.89977383587595, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498212635213	geckodriver	INFO	Listening on 127.0.0.1:41497
+1498212636936	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498212645361	Marionette	INFO	Listening on port 33407
+1498212645622	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1498212660962	Marionette	INFO	Ceased listening
+1498212665487	Marionette	INFO	Ceased listening
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.20787119764372752, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.20787119764372752, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498212699302	geckodriver	INFO	Listening on 127.0.0.1:48297
+1498212700819	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498212709859	Marionette	INFO	Ceased listening
+1498212710971	Marionette	INFO	Listening on port 45207
+1498212711358	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.07085498177223082, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.07085498177223082, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498212907949	geckodriver	INFO	Listening on 127.0.0.1:48653
+1498212909807	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498212918230	Marionette	INFO	Listening on port 38641
+1498212918433	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9160241840999097, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9160241840999097, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498213581886	geckodriver	INFO	Listening on 127.0.0.1:41531
+1498213582441	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498213592733	Marionette	INFO	Listening on port 36385
+1498213593745	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3381: TypeError: this.tabs is undefined
+1498213598145	Marionette	INFO	Ceased listening
+1498213602258	Marionette	INFO	Ceased listening
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6596672425116723, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6596672425116723, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498213768521	Marionette	INFO	Ceased listening
+1498215529229	geckodriver	INFO	Listening on 127.0.0.1:34215
+1498215530707	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498215537470	Marionette	INFO	Listening on port 37853
+1498215537832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9913622794304184, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9913622794304184, line 504: unreachable code after return statement
+1498216030874	geckodriver	INFO	Listening on 127.0.0.1:55007
+1498216032279	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498216039700	Marionette	INFO	Listening on port 36929
+1498216040158	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21425436766923367, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21425436766923367, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498216250674	geckodriver	INFO	Listening on 127.0.0.1:45985
+1498216252271	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498216259998	Marionette	INFO	Listening on port 34495
+1498216260516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5194395905491569, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5194395905491569, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498216440105	geckodriver	INFO	Listening on 127.0.0.1:56987
+1498216441634	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498216449543	Marionette	INFO	Listening on port 33207
+1498216449737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4189930043160979, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4189930043160979, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498216997840	geckodriver	INFO	Listening on 127.0.0.1:47081
+1498216999286	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498217009509	Marionette	INFO	Listening on port 44413
+1498217010248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498217093827	geckodriver	INFO	Listening on 127.0.0.1:55043
+1498217095193	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498217100835	Marionette	INFO	Listening on port 34337
+1498217101392	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.22255891337356493, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.22255891337356493, line 504: unreachable code after return statement
+1498217777275	geckodriver	INFO	Listening on 127.0.0.1:46849
+1498217778609	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498217784435	Marionette	INFO	Listening on port 40481
+1498217784882	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9635869991365582, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9635869991365582, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498217869395	geckodriver	INFO	Listening on 127.0.0.1:59167
+1498217870756	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498217876597	Marionette	INFO	Listening on port 38737
+1498217877032	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9831726140420123, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9831726140420123, line 504: unreachable code after return statement
+1498217894604	geckodriver	INFO	Listening on 127.0.0.1:45685
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498217896316	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498217908139	Marionette	INFO	Listening on port 38223
+1498217909308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21814915223433606, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21814915223433606, line 504: unreachable code after return statement
+1498217931341	geckodriver	INFO	Listening on 127.0.0.1:39151
+1498217933626	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498217946888	Marionette	INFO	Listening on port 39565
+1498217948500	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/tabbrowser.xml, line 3381: TypeError: this.tabs is undefined
+1498217967033	Marionette	INFO	Ceased listening
+1498217969506	geckodriver	INFO	Listening on 127.0.0.1:50881
+1498218020178	geckodriver	INFO	Listening on 127.0.0.1:54333
+1498218020434	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498218026820	Marionette	INFO	Listening on port 34919
+1498218027189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.12864952078561365, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.12864952078561365, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.16533336510935648, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.16533336510935648, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21809580478052792, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21809580478052792, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8072062183679518, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8072062183679518, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.27607348870413606, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.27607348870413606, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.10517893085883978, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.10517893085883978, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.28380638666411373, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.28380638666411373, line 504: unreachable code after return statement
+1498218265741	geckodriver	INFO	Listening on 127.0.0.1:51527
+1498218267094	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498218272818	Marionette	INFO	Listening on port 41379
+1498218273289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9461191484088518, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9461191484088518, line 504: unreachable code after return statement
+1498218360448	geckodriver	INFO	Listening on 127.0.0.1:50671
+1498218361849	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498218367540	Marionette	INFO	Listening on port 39185
+1498218367998	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.34667513741029643, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.34667513741029643, line 504: unreachable code after return statement
+1498218433005	geckodriver	INFO	Listening on 127.0.0.1:43197
+1498218434422	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498218440932	Marionette	INFO	Listening on port 45093
+1498218441355	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.49585005161594453, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.49585005161594453, line 504: unreachable code after return statement
+1498219419299	geckodriver	INFO	Listening on 127.0.0.1:41323
+1498219420650	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498219426279	Marionette	INFO	Listening on port 36619
+1498219426793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7285256119841002, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7285256119841002, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8062202804256182, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8062202804256182, line 504: unreachable code after return statement
+JavaScript error: https://www.staples.com/js/ux2/common/SparxHog.js, line 128: ReferenceError: validateAirMilesRewards is not defined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6598585232671641, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6598585232671641, line 504: unreachable code after return statement
+JavaScript error: https://www.staples.com/js/ux2/common/SparxHog.js, line 128: ReferenceError: validateAirMilesRewards is not defined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.12688974651803653, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.12688974651803653, line 504: unreachable code after return statement
+JavaScript error: https://www.staples.com/js/ux2/common/SparxHog.js, line 128: ReferenceError: validateAirMilesRewards is not defined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.1501552714120673, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.1501552714120673, line 504: unreachable code after return statement
+JavaScript error: https://www.staples.com/js/ux2/common/SparxHog.js, line 128: ReferenceError: validateAirMilesRewards is not defined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7535771458312102, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7535771458312102, line 504: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2083267416648138, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2083267416648138, line 504: unreachable code after return statement
+1498219504716	geckodriver	INFO	Listening on 127.0.0.1:42551
+1498219504974	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498219512264	Marionette	INFO	Listening on port 39401
+1498219512720	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4980438811021559, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4980438811021559, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3583542694480818, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3583542694480818, line 504: unreachable code after return statement
+JavaScript error: https://www.staples.com/js/ux2/common/SparxHog.js, line 128: ReferenceError: validateAirMilesRewards is not defined
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8047148533411782, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8047148533411782, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2676481277930761, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2676481277930761, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3733782982394044, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3733782982394044, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.376884621296802, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.376884621296802, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7061801870085065, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7061801870085065, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4227225880114346, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4227225880114346, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.576608669714504, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.576608669714504, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.0602882422446368, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.0602882422446368, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.865711417606325, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.865711417606325, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4751671092375739, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4751671092375739, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6127276927403792, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6127276927403792, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6387923190112048, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6387923190112048, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.42677308769913, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.42677308769913, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3183113351746182, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3183113351746182, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7585091683988638, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7585091683988638, line 504: unreachable code after return statement
+JavaScript error: https://staticw2.yotpo.com/LEb2xjVQAMYaTVrGjJ9vDjkj0wRSmKlIf7sdKxqy/widget.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.681038772483264, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.681038772483264, line 504: unreachable code after return statement
+1498219931873	geckodriver	INFO	Listening on 127.0.0.1:48787
+1498219932122	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498219938103	Marionette	INFO	Listening on port 46825
+1498219938427	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.45347497913053014, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.45347497913053014, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.11435836855371462, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.11435836855371462, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9455338195075433, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9455338195075433, line 504: unreachable code after return statement
+1498219981868	geckodriver	INFO	Listening on 127.0.0.1:58689
+1498219983158	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498219989802	Marionette	INFO	Listening on port 37341
+1498219990578	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.1395603385464539, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.1395603385464539, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.633064253453356, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.633064253453356, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.34518196329143525, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.34518196329143525, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8282019323354137, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8282019323354137, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9594394458950576, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9594394458950576, line 504: unreachable code after return statement
+JavaScript error: https://staticw2.yotpo.com/LEb2xjVQAMYaTVrGjJ9vDjkj0wRSmKlIf7sdKxqy/widget.js, line 2: SyntaxError: JSON.parse: unexpected end of data at line 1 column 1 of the JSON data
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.12973234447985738, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.12973234447985738, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.872706919004518, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.872706919004518, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4951781216126191, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4951781216126191, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.45282177531781964, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.45282177531781964, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.26897206049903966, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.26897206049903966, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8431724304895194, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8431724304895194, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8458153377607696, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8458153377607696, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8391968254169979, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8391968254169979, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.08238333677172216, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.08238333677172216, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.684193804560567, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.684193804560567, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3539490683322525, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3539490683322525, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.81790084536847, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.81790084536847, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.08412508954855702, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.08412508954855702, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6141163347251041, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6141163347251041, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.05774856744892953, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.05774856744892953, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6481741289286657, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6481741289286657, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8052527482562122, line 453: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8052527482562122, line 504: unreachable code after return statement
+1498449879184	geckodriver	INFO	Listening on 127.0.0.1:35075
+1498449880499	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498449890257	Marionette	INFO	Listening on port 35659
+1498449891282	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+1498449986776	geckodriver	INFO	Listening on 127.0.0.1:52451
+1498449987006	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498449992738	Marionette	INFO	Listening on port 40843
+1498449993222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6329815723204636, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6329815723204636, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6898616387442603, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6898616387442603, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2655726653949614, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2655726653949614, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.30238636561849175, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.30238636561849175, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4486939489262548, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4486939489262548, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2792876003739234, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2792876003739234, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.20116604257349469, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.20116604257349469, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.04843952608606794, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.04843952608606794, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6785945842348361, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6785945842348361, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7409829016241981, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7409829016241981, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9704448584716803, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9704448584716803, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.506201457343953, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.506201457343953, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5855096698397232, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5855096698397232, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5029910398269402, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5029910398269402, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6865064768855615, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6865064768855615, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9594978687602905, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9594978687602905, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.10389599844311992, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.10389599844311992, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+1498454305321	geckodriver	INFO	Listening on 127.0.0.1:38765
+1498454306728	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498454317580	Marionette	INFO	Listening on port 38393
+1498454318249	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js, line 1: Error: [$injector:modulerr] Failed to instantiate module staplesSKUApp due to:
+[$injector:modulerr] Failed to instantiate module ngSanitize due to:
+[$injector:unpr] Unknown provider: $filterProvider
+http://errors.angularjs.org/1.2.13/$injector/unpr?p0=%24filterProvider
+d/<@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:18426
+Ea/s.$injector<@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:1969
+c@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:1234
+k/<@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:740
+f@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:18754
+k@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:573
+k/<@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:650
+f@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:18754
+k@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:573
+Ea@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:2110
+e@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:24287
+$@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:24501
+@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:13:17282
+fire@https://assets.staples-static.com/NC1/pn/bui/20170623154625/styleguide/docs/bower_components/jquery/dist/jquery.js:3119:10
+fireWith@https://assets.staples-static.com/NC1/pn/bui/20170623154625/styleguide/docs/bower_components/jquery/dist/jquery.js:3231:7
+ready@https://assets.staples-static.com/NC1/pn/bui/20170623154625/styleguide/docs/bower_components/jquery/dist/jquery.js:3443:3
+completed@https://assets.staples-static.com/NC1/pn/bui/20170623154625/styleguide/docs/bower_components/jquery/dist/jquery.js:3474:3
+nrWrapper@https://www.staples.com/Staples-Hyken-Technical-Mesh-Task-Chair-Black/product_990119:46:11875
+
+http://errors.angularjs.org/1.2.13/$injector/modulerr?p0=ngSanitize&p1=%5B%24injector%3Aunpr%5D%20Unknown%20provider%3A%20%24filterProvider%0Ahttp%3A%2F%2Ferrors.angularjs.org%2F1.2.13%2F%24injector%2Funpr%3Fp0%3D%2524filterProvider%0Ad%2F%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A18426%0AEa%2Fs.%24injector%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A1969%0Ac%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A1234%0Ak%2F%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A740%0Af%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A18754%0Ak%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A573%0Ak%2F%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A650%0Af%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A18754%0Ak%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A573%0AEa%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A2110%0Ae%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A24287%0A%24%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A24501%0A%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A13%3A17282%0Afire%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3119%3A10%0AfireWith%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3231%3A7%0Aready%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3443%3A3%0Acompleted%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3474%3A3%0AnrWrapper%40https%3A%2F%2Fwww.staples.com%2FStaples-Hyken-Technical-Mesh-Task-Chair-Black%2Fproduct_990119%3A46%3A11875%0A
+d/<@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:18426
+k/<@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:962
+f@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:18754
+k@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:573
+k/<@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:650
+f@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:18754
+k@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:573
+Ea@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:2:2110
+e@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:24287
+$@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:1:24501
+@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:13:17282
+fire@https://assets.staples-static.com/NC1/pn/bui/20170623154625/styleguide/docs/bower_components/jquery/dist/jquery.js:3119:10
+fireWith@https://assets.staples-static.com/NC1/pn/bui/20170623154625/styleguide/docs/bower_components/jquery/dist/jquery.js:3231:7
+ready@https://assets.staples-static.com/NC1/pn/bui/20170623154625/styleguide/docs/bower_components/jquery/dist/jquery.js:3443:3
+completed@https://assets.staples-static.com/NC1/pn/bui/20170623154625/styleguide/docs/bower_components/jquery/dist/jquery.js:3474:3
+nrWrapper@https://www.staples.com/Staples-Hyken-Technical-Mesh-Task-Chair-Black/product_990119:46:11875
+
+http://errors.angularjs.org/1.2.13/$injector/modulerr?p0=staplesSKUApp&p1=%5B%24injector%3Amodulerr%5D%20Failed%20to%20instantiate%20module%20ngSanitize%20due%20to%3A%0A%5B%24injector%3Aunpr%5D%20Unknown%20provider%3A%20%24filterProvider%0Ahttp%3A%2F%2Ferrors.angularjs.org%2F1.2.13%2F%24injector%2Funpr%3Fp0%3D%2524filterProvider%0Ad%2F%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A18426%0AEa%2Fs.%24injector%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A1969%0Ac%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A1234%0Ak%2F%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A740%0Af%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A18754%0Ak%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A573%0Ak%2F%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A650%0Af%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A18754%0Ak%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A573%0AEa%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A2110%0Ae%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A24287%0A%24%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A24501%0A%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A13%3A17282%0Afire%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3119%3A10%0AfireWith%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3231%3A7%0Aready%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3443%3A3%0Acompleted%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3474%3A3%0AnrWrapper%40https%3A%2F%2Fwww.staples.com%2FStaples-Hyken-Technical-Mesh-Task-Chair-Black%2Fproduct_990119%3A46%3A11875%0A%0Ahttp%3A%2F%2Ferrors.angularjs.org%2F1.2.13%2F%24injector%2Fmodulerr%3Fp0%3DngSanitize%26p1%3D%255B%2524injector%253Aunpr%255D%2520Unknown%2520provider%253A%2520%2524filterProvider%250Ahttp%253A%252F%252Ferrors.angularjs.org%252F1.2.13%252F%2524injector%252Funpr%253Fp0%253D%252524filterProvider%250Ad%252F%253C%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A1%253A18426%250AEa%252Fs.%2524injector%253C%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A2%253A1969%250Ac%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A2%253A1234%250Ak%252F%253C%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A2%253A740%250Af%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A1%253A18754%250Ak%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A2%253A573%250Ak%252F%253C%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A2%253A650%250Af%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A1%253A18754%250Ak%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A2%253A573%250AEa%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A2%253A2110%250Ae%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A1%253A24287%250A%2524%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A1%253A24501%250A%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fjs%252Fux2%252Fasgard-skupage-min.js%253A13%253A17282%250Afire%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fstyleguide%252Fdocs%252Fbower_components%252Fjquery%252Fdist%252Fjquery.js%253A3119%253A10%250AfireWith%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fstyleguide%252Fdocs%252Fbower_components%252Fjquery%252Fdist%252Fjquery.js%253A3231%253A7%250Aready%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fstyleguide%252Fdocs%252Fbower_components%252Fjquery%252Fdist%252Fjquery.js%253A3443%253A3%250Acompleted%2540https%253A%252F%252Fassets.staples-static.com%252FNC1%252Fpn%252Fbui%252F20170623154625%252Fstyleguide%252Fdocs%252Fbower_components%252Fjquery%252Fdist%252Fjquery.js%253A3474%253A3%250AnrWrapper%2540https%253A%252F%252Fwww.staples.com%252FStaples-Hyken-Technical-Mesh-Task-Chair-Black%252Fproduct_990119%253A46%253A11875%250A%0Ad%2F%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A18426%0Ak%2F%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A962%0Af%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A18754%0Ak%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A573%0Ak%2F%3C%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A650%0Af%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A18754%0Ak%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A573%0AEa%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A2%3A2110%0Ae%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A24287%0A%24%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A1%3A24501%0A%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fjs%2Fux2%2Fasgard-skupage-min.js%3A13%3A17282%0Afire%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3119%3A10%0AfireWith%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3231%3A7%0Aready%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3443%3A3%0Acompleted%40https%3A%2F%2Fassets.staples-static.com%2FNC1%2Fpn%2Fbui%2F20170623154625%2Fstyleguide%2Fdocs%2Fbower_components%2Fjquery%2Fdist%2Fjquery.js%3A3474%3A3%0AnrWrapper%40https%3A%2F%2Fwww.staples.com%2FStaples-Hyken-Technical-Mesh-Task-Chair-Black%2Fproduct_990119%3A46%3A11875%0A
+JavaScript error: https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/GPT/SkuGPTInitialization-min.js, line 1: TypeError: Analytics.tracking.item is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2324796272413966, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2324796272413966, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.27327220966866983, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.27327220966866983, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21378689092420744, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21378689092420744, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8388818605683696, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8388818605683696, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9596339319824798, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9596339319824798, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.637174347516219, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.637174347516219, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9481187442827668, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9481187442827668, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5605453141009733, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5605453141009733, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3826423295427508, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3826423295427508, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9934520511609005, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9934520511609005, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.35704254807598446, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.35704254807598446, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8220506337434019, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8220506337434019, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.017695006236961408, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.017695006236961408, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9562097926553408, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9562097926553408, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8626695562102116, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8626695562102116, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.18982227179038114, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.18982227179038114, line 504: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: nrWrapper@https://www.staples.com/Staples-Turcotte-Luxura-High-Back-Office-Chair-Black/product_934103:46:11876
+XMLHttpRequest.prototype.send@https://track.securedvisit.com/js/sv.js:17:59003
+c@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:28460
+sendRequest@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:28973
+d@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:15078
+e@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:15219
+l@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:16240
+destroy@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:17381
+destroy@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:5:30439
+_publishEvent@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:5730
+wrapWebEvent/<@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:25433
+nrWrapper@https://www.staples.com/Staples-Turcotte-Luxura-High-Back-Office-Chair-Black/product_934103:46:11876
+get/<@chrome://marionette/content/listener.js:1215:7
+navigate/<@chrome://marionette/content/listener.js:369:13
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+navigate@chrome://marionette/content/listener.js:368:12
+get@chrome://marionette/content/listener.js:1214:5
+
+*************************
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6844021351499598, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6844021351499598, line 504: unreachable code after return statement
+1498455664619	geckodriver	INFO	Listening on 127.0.0.1:41443
+1498455666060	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498455672705	Marionette	INFO	Listening on port 41977
+1498455673508	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498455725681	geckodriver	INFO	Listening on 127.0.0.1:56335
+1498455727045	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498455732426	Marionette	INFO	Listening on port 41917
+1498455732877	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498455761177	geckodriver	INFO	Listening on 127.0.0.1:33845
+1498455762513	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498455767821	Marionette	INFO	Listening on port 36565
+1498455768221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.0037829586959977624, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.0037829586959977624, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498455876843	geckodriver	INFO	Listening on 127.0.0.1:56495
+1498455878117	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498455883488	Marionette	INFO	Listening on port 34651
+1498455883923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9406352443196819, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9406352443196819, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498456167777	geckodriver	INFO	Listening on 127.0.0.1:60353
+1498456169064	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498456175077	Marionette	INFO	Listening on port 40089
+1498456175527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2566848520244527, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2566848520244527, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498456258388	geckodriver	INFO	Listening on 127.0.0.1:38265
+1498456259697	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498456264960	Marionette	INFO	Listening on port 34941
+1498456265420	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.07220069959446429, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.07220069959446429, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498456704365	geckodriver	INFO	Listening on 127.0.0.1:33687
+1498456705725	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498456711614	Marionette	INFO	Listening on port 41587
+1498456712116	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.34243546337754627, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.34243546337754627, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498456905941	geckodriver	INFO	Listening on 127.0.0.1:34057
+1498456907333	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498456912772	Marionette	INFO	Listening on port 41137
+1498456913185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.20589350808022222, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.20589350808022222, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8953735556752406, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8953735556752406, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5204983535593044, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5204983535593044, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5390534250922319, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5390534250922319, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7564758054111452, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7564758054111452, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3918655698229493, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3918655698229493, line 504: unreachable code after return statement
+1498457212300	geckodriver	INFO	Listening on 127.0.0.1:36053
+1498457212628	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498457221722	Marionette	INFO	Listening on port 46439
+1498457222145	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6276428149912271, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6276428149912271, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8813743011642631, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8813743011642631, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.035370226967459506, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.035370226967459506, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7651485944128086, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7651485944128086, line 504: unreachable code after return statement
+1498457302781	geckodriver	INFO	Listening on 127.0.0.1:50057
+1498457304127	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498457310191	Marionette	INFO	Listening on port 46239
+1498457310736	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5532082182056342, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5532082182056342, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+1498457352016	geckodriver	INFO	Listening on 127.0.0.1:35849
+1498457353373	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498457359060	Marionette	INFO	Listening on port 34477
+1498457359503	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7901103892151486, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7901103892151486, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.42656726317485316, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.42656726317485316, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9595628969325285, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9595628969325285, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5609997077710078, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5609997077710078, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21857539154071082, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.21857539154071082, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.09139173194326111, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.09139173194326111, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6564369907151606, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6564369907151606, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2952040460920963, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2952040460920963, line 504: unreachable code after return statement
+1498457475910	geckodriver	INFO	Listening on 127.0.0.1:50369
+1498457476156	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498457482289	Marionette	INFO	Listening on port 41243
+1498457482712	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9060654359590363, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9060654359590363, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2932589092887755, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.2932589092887755, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4079796288755241, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4079796288755241, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.06217993087469009, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.06217993087469009, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.25123454534112344, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.25123454534112344, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8153861756975371, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.8153861756975371, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5397366218540356, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5397366218540356, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9192943144619895, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9192943144619895, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6950214716686351, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6950214716686351, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7468670859701787, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.7468670859701787, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5701487339167342, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5701487339167342, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.10563175552475856, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.10563175552475856, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.05414593958828806, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.05414593958828806, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5478725008324403, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.5478725008324403, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.15563872658420885, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.15563872658420885, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9372098352963987, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9372098352963987, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3358099464829244, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.3358099464829244, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9675274991036044, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9675274991036044, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.503930143138575, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.503930143138575, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4629507300796558, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.4629507300796558, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.993088674949753, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.993088674949753, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.0822654217880443, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.0822654217880443, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.10179718442018404, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.10179718442018404, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9256489133641502, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9256489133641502, line 504: unreachable code after return statement
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: nrWrapper@https://www.staples.com/iTouchless-Towel-Matic-II-Automatic-Paper-Towel-Holder-Candy-Apple-Red/product_923220:46:11877
+XMLHttpRequest.prototype.send@https://track.securedvisit.com/js/sv.js:17:59003
+c@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:28460
+sendRequest@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:28973
+d@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:15078
+e@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:15219
+l@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:16240
+destroy@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:17381
+destroy@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:5:30439
+_publishEvent@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:5730
+wrapWebEvent/<@https://assets.staples-static.com/NC1/pn/bui/20170623154625/js/ux2/asgard-skupage-min.js:6:25433
+nrWrapper@https://www.staples.com/iTouchless-Towel-Matic-II-Automatic-Paper-Towel-Holder-Candy-Apple-Red/product_923220:46:11877
+get/<@chrome://marionette/content/listener.js:1215:7
+navigate/<@chrome://marionette/content/listener.js:369:13
+TaskImpl_run@resource://gre/modules/Task.jsm:319:42
+TaskImpl@resource://gre/modules/Task.jsm:277:3
+asyncFunction@resource://gre/modules/Task.jsm:252:14
+Task_spawn@resource://gre/modules/Task.jsm:166:12
+navigate@chrome://marionette/content/listener.js:368:12
+get@chrome://marionette/content/listener.js:1214:5
+
+*************************
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9380362147089952, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.9380362147089952, line 504: unreachable code after return statement
+JavaScript error: https://assets.staples-static.com/NC1/atcoverlay/js/atf/atfBundle.js, line 1: TypeError: STAPLES.favoriteListOverlay is undefined
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6524257796086356, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.6524257796086356, line 504: unreachable code after return statement
+1498471670374	geckodriver	INFO	Listening on 127.0.0.1:57541
+1498471671914	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1498471684607	Marionette	INFO	Listening on port 34051
+1498471685325	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://assets.staples-static.com/js/ux2/lib/jquery-1.11.0.min.js, line 224: Using //@ to indicate sourceURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.39896453852758673, line 454: unreachable code after return statement
+JavaScript warning: https://stp-tracker.inside-graph.com/ig.js?hn=www.staples.com&_=0.39896453852758673, line 504: unreachable code after return statement
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
